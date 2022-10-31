@@ -1,0 +1,28 @@
+body {
+  font-family: "Oswald", sans-serif;
+  width: 1000px;
+  margin: 0 auto;
+}
+.color {
+  background: -webkit-linear-gradient(0deg, #3561e8, #4a7ef2, #558df6);
+}
+.wrapper {
+  background-color: aliceblue;
+}
+.name {
+  margin-left: 300px;
+}
+.avatar {
+  margin-left: 350px;
+}
+.logo {
+  color: brown;
+  margin-left: 300px;
+}
+.header {
+  margin-left: 30px;
+  color: rgb(3, 1, 102);
+}
+.title {
+  margin-left: 10px;
+}
